@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prerak Tanwar</h1>
 <h3 align="center">Computer Science and Engineering student @ IIIT Delhi</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prerak09" alt="prerak09" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Open Source projects and Hackathons**
 
