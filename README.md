@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science and Engineering student @ IIIT Delhi</h3>
 
 
-- 👯 I’m looking to collaborate on **Open Source projects and Hackathons**
+- I’m looking to collaborate on **Open Source projects and Hackathons**
 
 - 📫 How to reach me **prerak24436@iiitd.ac.in**
 
